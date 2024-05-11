@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# :star2: DataScope: Visualizing Category Trends
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align='center'>
+<p>Welcome to the 'DataScope' GitHub repository! This project offers a focused visualization tool that simplifies data exploration with a clear and intuitive interface. Our dataset comprises 200 entries, sorted into three distinct categories labeled A, B, and C, each plotted against variables 'x' and 'y' to highlight unique trends and patterns. The tool features a dropdown menu that allows users to select a specific category, upon which a corresponding scatterplot is dynamically generated. Additionally, a comprehensive bar chart presenting the distribution across all categories is provided, enhancing the user's ability to compare and analyze the dataset at a glance.</p>
+<h4> <a href=https://nishantjoshi-007.github.io/DataScope/>Live Demo</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/DataScope/blob/main/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/DataScope/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/DataScope/issues"> Request Feature </a> </h4>
+</div>
 
-## Available Scripts
+# :notebook_with_decorative_cover: Table of Contents
+- [Getting Started](#toolbox-getting-started)
+- [Contributing](#wave-contributing)
+- [License](#warning-license)
 
-In the project directory, you can run:
 
-### `npm start`
+## :toolbox: Getting Started
+### :bangbang: Prerequisites
+- Install VS Code<a href="https://code.visualstudio.com/Download"> Here</a>
+- Install Node JS in your computer<a href="https://nodejs.org/en/"> Here</a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### :running: Run Locally
+Clone the project
+```bash
+git clone https://github.com/nishantjoshi-007/DataScope
+```
+Go to project directory
+```bash
+cd DataScope
+```
+Install necessary libraries
+```bash
+npm install
+```
+To run this project
+```bash
+npm start
+```
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :wave: Contributing
+<img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> Contributions to the CarVis are always welcome! Whether it's reporting bugs, suggesting new features, or improving the code, your input is valuable. Please feel free to fork this repository, make your changes, and submit a pull request.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## :warning: License
+Distributed under the MIT License. See <a href="https://github.com/nishantjoshi-007/DataScope/blob/main/LICENSE">LICENSE.txt</a> for more information.
