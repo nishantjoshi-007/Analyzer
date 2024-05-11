@@ -7,7 +7,7 @@ function App() {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        d3.csv('/data/SampleDataset.csv').then(loadedData => {
+        d3.csv(process.env.PUBLIC_URL + '/data/SampleDataset.csv').then(loadedData => {
             const parsedData = loadedData.map(d => ({
                 x: +d.x,
                 y: +d.y,
