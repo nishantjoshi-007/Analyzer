@@ -2,7 +2,7 @@
 
 <div align='center'>
 <p>Welcome to the 'DataScope' GitHub repository! This project offers a focused visualization tool that simplifies data exploration with a clear and intuitive interface. Our dataset comprises 200 entries, sorted into three distinct categories labeled A, B, and C, each plotted against variables 'x' and 'y' to highlight unique trends and patterns. The tool features a dropdown menu that allows users to select a specific category, upon which a corresponding scatterplot is dynamically generated. Additionally, a comprehensive bar chart presenting the distribution across all categories is provided, enhancing the user's ability to compare and analyze the dataset at a glance.</p>
-<h4> <a href=https://nishantjoshi-007.github.io/DataScope/>Live Demo</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/DataScope/blob/main/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/DataScope/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/DataScope/issues"> Request Feature </a> </h4>
+<h4> <a href=https://nishantjoshi-007.github.io/DataScope/>Live Demo</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/DataScope/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/DataScope/issues"> Request Feature </a> </h4>
 </div>
 
 # :notebook_with_decorative_cover: Table of Contents
